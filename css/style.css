@@ -1,0 +1,11 @@
+.date {width: 56px; height: 56px; background-color: blue; padding: 7px 10px; font-size: 37px; color: white;}
+.textblock {display: inline-block; width: 900px; vertical-align: middle;}
+.image {vertical-align: middle; margin-right: 30px;}
+.text1{margin-bottom: 20px;}
+/*contact page*/
+.sectioncontact	{background-color: #E6E6E6;}
+.container {width: 1170px; margin: 0 auto;}
+.leftblock {display: inline-block; vertical-align: top; margin-top: 40px; margin-right: 30px;}
+.rightblock	{display: inline-block; vertical-align: top; margin-top: 40px;}
+.contacta {color: black; font-weight: bold; font-size: 24px;}
+.contacth {color: darkblue; font-weight: bold; font-size: 30px;}
